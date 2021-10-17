@@ -1,4 +1,4 @@
-## Vamos falar um pouquinho sobre o Linux:
+## :penguin: Vamos falar um pouquinho sobre o Linux:
 
 
 
