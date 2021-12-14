@@ -1,4 +1,6 @@
-## :penguin: Vamos falar um pouquinho sobre o Linux:
+<img align="right" alt="Fe-Linux" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
+
+## Vamos falar um pouquinho sobre o Linux:
 
 
 
@@ -6,7 +8,7 @@
 
 * /    ➜   /home (diretório raiz)
 
-* ~   ➜    /home/usuario (diretório pessoal)
+* ~   ➜    /home/usuario (diretório pessoal)  
 
   ​
 
